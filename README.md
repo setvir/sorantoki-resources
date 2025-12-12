@@ -1,6 +1,15 @@
-# sorantoki-resources
-Documents for the Sorantoki language project
+# Sorantoki
+Sorantoki is a simple, clear, and friendly auxiliary language designed to make communication easy for everyone. It sits in the middle of the auxlang spectrum: more regular and logical than natural languages, but more natural and intuitive than highly engineered or philosophical languages. Its goal is not perfection on paper, but ease of learning and ease of use in real conversations.
 
+The language has a single fixed word order (SVO), a very small sound system, and a completely regular grammar with no exceptions. Instead of verb conjugations or complicated endings, Sorantoki uses a straight-line chain of small helper words to express tense, aspect, mood, and other meanings. This makes sentences easy to build and even easier to understand.
+
+Your First Word
+wasa
+pronounced wasa, vasa, watha, or vatha — means "I didn't catch that" or "The message wasn't received clearly." It can refer to unclear hearing, unclear speech, or simply unclear understanding.
+
+wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarify. It signals cooperation, not error. In Sorantoki culture, communication is shared responsibility: if something isn't understood, the listener uses wasa without hesitation, and the speaker repeats without feeling corrected.
+
+____
 
 Sorantoki Licensing Policy
 All Sorantoki materials are freely available under Creative Commons licenses. This page explains what you can and cannot do with different parts of the project.
