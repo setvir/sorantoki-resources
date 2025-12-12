@@ -4,8 +4,10 @@ Sorantoki is a simple, clear, and friendly auxiliary language designed to make c
 The language has a single fixed word order (SVO), a very small sound system, and a completely regular grammar with no exceptions. Instead of verb conjugations or complicated endings, Sorantoki uses a straight-line chain of small helper words to express tense, aspect, mood, and other meanings. This makes sentences easy to build and even easier to understand.
 
 Your First Word
+
 wasa
 pronounced wasa, vasa, watha, or vatha — means "I didn't catch that" or "The message wasn't received clearly." It can refer to unclear hearing, unclear speech, or simply unclear understanding.
+
 
 wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarify. It signals cooperation, not error. In Sorantoki culture, communication is shared responsibility: if something isn't understood, the listener uses wasa without hesitation, and the speaker repeats without feeling corrected.
 
@@ -23,28 +25,49 @@ License: CC0 1.0 Universal (Public Domain)
 The official grammar reference and all explanatory materials are licensed under:
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
+
 You may:
+
 Create and sell derivative learning materials, courses, books, or apps based on the grammar
+
 Share and adapt the content for any purpose
+
 Attribution Requirements:
+
 Give appropriate credit to Sorantoki
+
 Link back to sorantoki.org
+
 License your derivatives under CC-BY-SA 4.0
+
 Clearly indicate your work is not the official version
+
 Restriction: The canonical grammar PDF itself may not be sold or placed behind a paywall. It must remain freely accessible.
+
 3. Official Lexicon
+4. 
 The official lexicon (word list, including coiner credits) is licensed under:
 
 Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
 You may:
+
 Create and sell derivative works: apps, flashcards, annotated dictionaries, teaching tools
+
 Share and adapt the lexicon for any purpose
+
 Attribution Requirements:
+
 Give appropriate credit to Sorantoki
+
 Link back to sorantoki.org
+
 License your derivatives under CC-BY 4.0
+
 Restriction: The canonical lexicon itself may not be sold or placed behind a paywall. It must remain freely accessible.
+
 4. Trademarks
+   
 The name "Sorantoki" and the official logo are unregistered trademarks (™) of the Sorantoki project.
 
 You may use them only to refer to the language itself or to official resources.
