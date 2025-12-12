@@ -16,7 +16,7 @@ ____
 
 Please consider supporting me:
 
- paypal.me/ThanksForSorantoki [paypal.me/ThanksForSorantoki](https://www.paypal.com/paypalme/ThanksForSorantoki)
+ [paypal.me/ThanksForSorantoki](https://www.paypal.com/paypalme/ThanksForSorantoki)
 
 
 ____
