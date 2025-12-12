@@ -13,6 +13,12 @@ wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarif
 
 ____
 
+#Github Discussions
+
+(Discuss Sorantoki)[https://github.com/setvir/sorantoki-resources/discussions]
+
+____
+
 Backabuddy funding for NPO registration, hosting, domain registration and general administration:
 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
