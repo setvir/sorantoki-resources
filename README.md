@@ -41,7 +41,7 @@ The official grammar reference and all explanatory materials are licensed under:
 ###### Attribution Requirements:
 
 -   Give appropriate credit to Sorantoki
--   Link back to [sorantoki.org](https://sorantoki.org/)
+-   Link back here
 -   License your derivatives under CC-BY-SA 4.0
 -   Clearly indicate your work is not the official version
 
