@@ -15,7 +15,7 @@ ____
 
 #Github Discussions
 
-(Discuss Sorantoki)[https://github.com/setvir/sorantoki-resources/discussions]
+[Discuss Sorantoki](https://github.com/setvir/sorantoki-resources/discussions)
 
 ____
 
