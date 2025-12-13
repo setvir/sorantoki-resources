@@ -27,7 +27,7 @@ Backabuddy funding for NPO registration, hosting, domain registration and genera
 
 ____
 
-[Facebook Page](https://www.facebook.com/groups/1160745382941047)
+[Facebook Group](https://www.facebook.com/groups/1160745382941047)
 ____
 
 1\. Speaking, Writing, and Creation
