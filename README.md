@@ -15,12 +15,12 @@ wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarif
 
 ____
 
-#Governance 
+# Governance 
 
 Currently in Bootstrap Phase, see [governance](https://github.com/setvir/sorantoki/tree/main/governance) for details.
 ____
 
-#Github Discussions
+# Github Discussions
 
 [Discuss Sorantoki](https://github.com/setvir/sorantoki/discussions)
 
