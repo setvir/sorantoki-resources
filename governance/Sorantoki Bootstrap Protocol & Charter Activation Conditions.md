@@ -114,7 +114,7 @@ Until the Charter activates, the Creator **pledges** to:
 This Bootstrap Protocol is **temporary kindling**. When the Charter activates, **this document should be archived, not amended**. It is the **transitional scaffolding** that proves Sorantoki's governance was **planned for humans from the beginning**, not retrofitted after problems arose.
 
 **Signed**:  
-Lionel Coombes, Founder  
+Lionel Coombes (aka Setvir), Creator and Founder 
 14/12/2025
 
 ---
