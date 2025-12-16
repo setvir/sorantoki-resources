@@ -30,7 +30,7 @@ ____
 
 ____
 
-# funding Services
+# Funding Services
 Backabuddy funding for NPO registration, hosting, domain registration and general administration:
 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
