@@ -1,5 +1,5 @@
 
-<img src="images/sorantoki2.png" alt="Sorantoki flag" width="100%">
+<center><img src="images/sorantoki2.png" alt="Sorantoki flag" width="60%"></center>
 
 
 # Sorantoki (lit. sun/day talk)
