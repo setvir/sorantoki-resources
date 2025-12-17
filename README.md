@@ -92,7 +92,7 @@ Sorantoki is designed so that **no single person permanently owns the language**
 
 * Early public release
 * Core grammar and lexicon established
-* Bootstrap governance phase active
+* Bootstrap governance phase active (see [governance](https://github.com/setvir/sorantoki/tree/main/governance) for details.)
 * Community growth intentionally slow
 
 This is a language being grown carefully, not rapidly.
@@ -121,11 +121,6 @@ wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarif
 
 [Document Download](sorantoki.pdf)
 
-____
-
-# Governance 
-
-Currently in Bootstrap Phase, see [governance](https://github.com/setvir/sorantoki/tree/main/governance) for details.
 ____
 
 # Github Discussions
