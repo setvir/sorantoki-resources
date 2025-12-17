@@ -53,6 +53,7 @@ The Project is **solely responsible** for:
 ---
 
 ## **Article III: Lexical Evolution Process (The Sand-Line in Action)**
+(This process should have a turnaround time of a week)
 
 ### **Step 1: Friction Logging (Demand Signal)**
 - Any user may **log friction** for a concept that **repeatedly requires cumbersome circumlocution**.
@@ -63,7 +64,7 @@ The Project is **solely responsible** for:
 - **Low-effort logs are deprioritized** (the Project may require a **seconding** from another user to advance).
 
 ### **Step 2: Project Curation (Triage)**
-- The Project **reviews logs quarterly**, grouping by semantic domain.
+- The Project **reviews logs weekly**, grouping by semantic domain.
 - **Prioritization criteria**:
   - **Frequency**: How many unique users logged this?
   - **Urgency**: Does the lack of a root impede **critical communication** (health, safety, justice)?
@@ -71,22 +72,26 @@ The Project is **solely responsible** for:
   - **Expressibility**: Can the concept be rendered **clearly** with existing roots? (If yes, it is **automatically deprioritized**—the line holds.)
 
 ### **Step 3: Public Proposal (Design)**
-- The Project **opens a call for root proposals** for the top-priority concepts.
+
+- The Project **opens a call for root proposals** for the top-priority concepts (4 to 5).
 - **Proposals must include**:
   - Proposed root (CV(N) compliant).
   - Etymological reasoning (source languages, recognizability).
   - Collision analysis (no conflict with existing roots or affixes).
-- **Attribution**: The proposer is **permanently credited** in the canonical dictionary.
+
 
 ### **Step 4: Community Poll (Democratic Selection)**
 - **Finalists** (2–5 per concept) are posted for **community vote**.
-- **Vote weighting**: To prevent domain capture, **votes are weighted by linguistic diversity** (e.g., a voter from a language family underrepresented in the existing lexicon has **slightly higher weight**).
 - **Supermajority requirement**: A root must achieve **60% approval** to be added.
+- The winning root is added to the **canonical dictionary** as provisional.
+- **Attribution**: The proposer is **permanently credited** in the canonical dictionary.
+**Note:** during provisional status the root can be added to friction reports at any time and depending on the amount of friction.
 
 ### **Step 5: Canonical Adoption (Integration)**
-- The winning root is added to the **canonical dictionary** with full attribution.
+- After a year since inclusion the root undergoes a light review and is set to cononical status.
 - The Project **publishes a migration guide**: how the new root replaces common circumlocutions.
 - **Deprecated compounds**: If the new root renders a popular compound **obsolete**, the Project **acknowledges** this and allows a **3-year grace period** before discouraging the old form.
+
 
 ---
 
@@ -107,7 +112,7 @@ The Project is **solely responsible** for:
 - **Rationale**: Prevents Sorantoki from becoming **"Tech-speak with a Clear Register."**
 
 ### **D. Sunset Clause for Roots**
-- Any root that **falls below 0.1% usage** in a 5-year period is **flagged for review**.
+- Any root canonical root can be **flagged for review** using the same friction report system.
 - The Project may **deprecate** it via the same **poll process** (requiring 60% approval for removal).
 - **Attribution preserved**: Deprecated roots remain in dictionary with **(archaic)** marker.
 
