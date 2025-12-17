@@ -3,11 +3,128 @@
 
 
 # Sorantoki (lit. sun/day talk)
-Sorantoki is a simple, clear, and friendly auxiliary language designed to make communication easy for everyone. It sits in the middle of the auxlang spectrum: more regular and logical than natural languages, but more natural and intuitive than highly engineered or philosophical languages. Its goal is not perfection on paper, but ease of learning and ease of use in real conversations.
 
-The language has a single fixed word order (SVO), a very small sound system, and a completely regular grammar with no exceptions. Instead of verb conjugations or complicated endings, Sorantoki uses a straight-line chain of small helper words to express tense, aspect, mood, and other meanings. This makes sentences easy to build and even easier to understand.
+Sorantoki is a deliberately minimal auxiliary language and governance framework designed to explore how languages can be made learnable, inclusive, and resilient over time.
 
-Your First Word
+It is not presented as a finished solution or a universal replacement for existing languages. Instead, Sorantoki is a reference implementation: a working language accompanied by explicit rules for how it grows, who decides, and how authority transitions from a single founder to a community.
+
+## What makes Sorantoki different
+
+Most constructed languages focus on grammar and vocabulary. Sorantoki focuses equally on how a language evolves once people begin to use it.
+
+Sorantoki combines three elements that are rarely designed together:
+
+Structural simplicity with predictable constraints
+
+No inflection or irregular forms
+
+Fixed word order and a six-slot serial verb template
+
+A small phoneme inventory with no consonant clusters
+
+Inclusive design as an engineering constraint
+
+Multiple pronunciation variants are equally correct
+
+Single stress rule, no lexical stress
+
+Optional clarity markers instead of mandatory precision
+
+A cultural repair word (wasa) that normalizes misunderstanding
+
+Explicit governance before community scale
+
+A friction-based process for adding new words
+
+Domain balancing to prevent lexical capture
+
+Transparent decision rationales
+
+Defined transition from founder stewardship to community governance
+
+Sorantoki treats language not as a static artifact, but as a shared system that must remain usable by real humans over time.
+
+## Design goals (and non-goals)
+
+**Sorantoki aims to:**
+
+Minimize cognitive load for learners
+
+Reduce barriers caused by accent, speech variation, or working-memory demands
+
+Encourage calm, cooperative communication
+
+Grow vocabulary only when communicative need is demonstrated
+
+Remain forkable, inspectable, and governable
+
+**Sorantoki does not aim to:**
+
+Maximize expressive density
+
+Replace natural languages
+
+Compete ideologically with existing auxlangs
+
+Enforce a single “correct” accent or register
+
+## Inclusivity by design
+
+Sorantoki does not claim universal accessibility. Instead, it deliberately reduces known sources of linguistic friction that disproportionately affect some speakers, including:
+
+Phonological precision requirements
+
+Memorization of inflectional paradigms
+
+Irregular stress and pronunciation rules
+
+Social stigma around “incorrect” speech
+
+These choices are documented openly so they can be evaluated, challenged, and improved.
+
+## Governance and growth
+
+Sorantoki begins with a small core vocabulary and expands only in response to repeated communicative friction.
+
+New roots are added when:
+
+Existing circumlocutions are demonstrably insufficient
+
+The concept is broadly useful
+
+The addition does not distort domain balance
+
+All decisions are documented, attributed, and subject to future review. A formal governance charter defines how decision-making authority transitions from the creator to a rotating, accountable community body once participation thresholds are met.
+
+Sorantoki is designed so that no single person permanently owns the language, including its creator.
+
+## Current status
+
+Early public release
+
+Core grammar and lexicon established
+
+Bootstrap governance phase active
+
+Community growth intentionally slow
+
+This is a language being grown carefully, not rapidly.
+
+## How to get involved
+
+At this stage, the most valuable contributions are:
+
+Reading and testing the language
+
+Logging points of communicative friction
+
+Writing short example texts
+
+Reviewing governance assumptions
+
+Root proposals are intentionally limited during the bootstrap phase.
+
+## Your First Word
 
 wasa
 pronounced wasa, vasa, watha, or vatha — means "I didn't catch that" or "The message wasn't received clearly." It can refer to unclear hearing, unclear speech, or simply unclear understanding.
@@ -30,7 +147,7 @@ ____
 
 ____
 
-# Funding Services
+# Funding Serontoki's Vision
 Backabuddy funding for NPO registration, hosting, domain registration and general administration:
 
 [Fund Sorantoki Startup Costs](https://www.backabuddy.co.za/campaign/sorantoki)
