@@ -165,7 +165,7 @@ To the extent that moral rights cannot be waived under applicable law, the Creat
 ---
 
 ## 2. Grammar Reference & Explanatory Materials
-**Scope:** the canonical grammar files located in `/grammar/*.md` (and any translations officially hosted in the same directory).  
+ 
 **Licence:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).  
 You may:
 - create and sell derivative learning materials, courses, books, or apps;  
@@ -175,17 +175,17 @@ You may:
 1. Give appropriate credit:  
    `Sorantoki Grammar © 20XX Sorantoki Project, licensed under CC-BY-SA 4.0`  
    (replace 20XX with the year shown in the file header).  
-2. Provide a link to https://sorantoki.org and to this licence.  
+2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
 3. License your derivative under the same CC-BY-SA 4.0 licence.  
 4. Clearly indicate that your work is unofficial.  
 
 **Additional restriction on the *canonical* copy:**  
-The official HTML/Markdown files hosted at https://github.com/sorantoki/sorantoki/tree/main/grammar must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
+The official HTML/Markdown/PDF files hosted at https://github.com/sorantoki/sorantoki must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
 
 ---
 
 ## 3. Official Lexicon
-**Scope:** the canonical dictionary files located in `/dictionary/*.json` and `/dictionary/*.md`.  
+ 
 **Licence:** Creative Commons Attribution 4.0 International (CC-BY 4.0).  
 You may:
 - create and sell derivative works (flash-card apps, annotated dictionaries, teaching tools);  
@@ -195,16 +195,16 @@ You may:
 1. Give appropriate credit:  
    `Sorantoki Lexicon © 20XX Sorantoki Project, licensed under CC-BY 4.0`  
    (replace 20XX with the year shown in the file header).  
-2. Provide a link to https://sorantoki.org and to this licence.  
+2. Provide a link to [https://sorantoki.org](https://github.com/sorantoki/) and to this licence.  
 3. License your derivative under CC-BY 4.0 (or later).  
 
 **Additional restriction on the *canonical* copy:**  
-The official files hosted at https://github.com/sorantoki/sorantoki/tree/main/dictionary must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
+The official files hosted at https://github.com/sorantoki/ must remain freely accessible and may not be placed behind a pay-wall. This restriction does **not** apply to derivative works you create.
 
 ---
 
 ## 4. Governance Documents
-**Scope:** all files located in `/governance/*.md` (Bootstrap Protocol, Governance Charter, etc.).  
+
 **Licence:** CC0 1.0 Universal – public domain dedication.  
 No attribution is legally required, but citing the source is appreciated.
 
