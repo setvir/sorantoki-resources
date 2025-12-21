@@ -123,7 +123,7 @@ pronounced wasa, vasa, watha, or vatha — means "I didn't catch that" or "The m
 
 wasa is a gentle, non-blaming way to ask someone to repeat, slow down, or clarify. It signals cooperation, not error. In Sorantoki culture, communication is shared responsibility: if something isn't understood, the listener uses wasa without hesitation, and the speaker repeats without feeling corrected.
 
-[Grammar]([sorantoki.pdf](https://github.com/setvir/sorantoki/blob/main/grammar/Sorantoki%20Grammar.md))
+[Grammar](https://github.com/setvir/sorantoki/blob/main/grammar/Sorantoki%20Grammar.md)
 
 ____
 
